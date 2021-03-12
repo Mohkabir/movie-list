@@ -16,7 +16,7 @@ this.addEventListener("install", (e)=>{
         "/static/js/0.chunk.js", 
         "/static/js/bundle.js",
         "/movie-list",
-        "/"
+    //    "/"
       ]);
     })
   })
